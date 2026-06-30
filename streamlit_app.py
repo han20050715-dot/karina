@@ -1,9 +1,5 @@
 #CS230 Final Project
 #Karina Wu
-#Note for Professor: For this project, I used AI tools to help organize and structure parts of the code, especially for some of the advanced UI design, visual styling, interactivity, and overall game-like experience. However, the core concepts we learned in class — including the basic Streamlit features, charts, data filtering, sorting, DataFrame operations, and overall dataset analysis — were completed and understood by me independently.
-# I wanted to make this project more creative, interactive, and meaningful beyond a standard data app, so I chose to use AI as a support tool for elements that would have been very difficult for me to build entirely on my own, particularly the more advanced design and interface components.
-#At the same time, I still invested a huge amount of personal effort into this project. I spent many hours debugging errors, fixing broken code, redesigning layouts, improving the UI/UX, and testing interactions repeatedly. There were several nights where I stayed up very late working through issues and refining the experience because I genuinely cared about making the project feel polished, immersive, and enjoyable rather than simply functional.
-#Even when using AI-assisted code, I still had to review, modify, troubleshoot, and integrate everything myself throughout the process. Overall, this project helped me better understand how data analytics, UI/UX design, and interactive applications can work together in a real-world creative project.
 
 import plotly.express as px
 import plotly.graph_objects as go
